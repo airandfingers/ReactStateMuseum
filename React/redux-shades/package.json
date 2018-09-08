@@ -11,7 +11,6 @@
     "react-redux": "5.0.7",
     "react-scripts": "1.1.4",
     "redux": "4.0.0",
-    "redux-shades": "^1.1.1",
     "shades": "^1.13.0"
   },
   "devDependencies": {},
